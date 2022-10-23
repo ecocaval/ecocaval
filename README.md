@@ -1,5 +1,5 @@
 <p align = "center" > 
-<a href="https://www.linkedin.com/in/ecocaval/"><img src = "https://img.shields.io/badge/-ecocaval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanalessa/)" /> </a>
+<a href="https://www.linkedin.com/in/%C3%A9rico-cavalcanti/"><img src = "https://img.shields.io/badge/-ecocaval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ecocaval/)" /> </a>
 <a href="https://www.instagram.com/ecocaval/"><img src = "https://img.shields.io/badge/-ecocaval-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lessalsn/)" /></a>
 </p>
 
