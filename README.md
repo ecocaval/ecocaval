@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align = "center" > 
+<a href="https://www.linkedin.com/in/ecocaval/"><img src = "https://img.shields.io/badge/-ecocaval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanalessa/)" /> </a>
+<a href="https://www.instagram.com/ecocaval/"><img src = "https://img.shields.io/badge/-ecocaval-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lessalsn/)" /></a>
+</p>
 
-<!--
-**ecocaval/ecocaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📃Github Stats</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+    <a href="#"><img alt="ecocaval's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ecocaval&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160"/></a>
+    <a href="#"><img alt="ecocaval's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecocaval&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&" height="160"/></a>
+    <br/>
+  </div>
+
+
