@@ -12,8 +12,8 @@
 <br/>
 
 <div align="center">
-    <a href="#"><img alt="ecocaval's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ecocaval&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160"/></a>
-    <a href="#"><img alt="ecocaval's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecocaval&langs_count=10&layout=compact&theme=dracula&hide_border=true&" height="160"/></a>
+    <a href="#"><img alt="ecocaval's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ecocaval&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=2e2726&border_color=f19609&title_color=f19609" height="180"/></a>
+    <a href="#"><img alt="ecocaval's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecocaval&langs_count=10&layout=compact&theme=dracula&bg_color=2e2726&border_color=f19609&title_color=f19609" height="180"/></a>
     <br/>
   </div>
 
