@@ -1,13 +1,9 @@
 
 <p align = "center"  ><img src="https://miro.medium.com/max/960/1*nviGMyw1WuYk4rB0RsdZEg.gif"/></p> 
 
-<p align = "center" >
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img style="width:600px" src="https://readme-typing-svg.herokuapp.com?lines=✋+Hello+World+!&center=true&title_color=79c0ff"></a>
-</p> 
-
 <p align = "center" > 
-<a href="https://www.linkedin.com/in/%C3%A9rico-cavalcanti/"><img style="width:80px" src = "https://img.shields.io/badge/-ecocaval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ecocaval/)" /> </a>
-<a href="https://www.instagram.com/ecocaval/"><img style="width:80px" src = "https://img.shields.io/badge/-ecocaval-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lessalsn/)" /></a>
+<a href="https://www.linkedin.com/in/%C3%A9rico-cavalcanti/"><img style="width:100px" src = "https://img.shields.io/badge/-ecocaval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ecocaval/)" /> </a>
+<a href="https://www.instagram.com/ecocaval/"><img style="width:100px" src = "https://img.shields.io/badge/-ecocaval-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/lessalsn/)" /></a>
 </p>
 
 <h2>📃Github Stats</h2>
