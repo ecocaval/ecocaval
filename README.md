@@ -10,13 +10,10 @@
 
 <br/>
 
-<h2>📃Github Stats</h2>
-
 <br/>
 
 <div align="center">
-    <a href="#"><img alt="ecocaval's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ecocaval&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160"/></a>
-    <a href="#"><img alt="ecocaval's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecocaval&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&" height="160"/></a>
+    <a href="#"><img alt="ecocaval's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecocaval&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&"/></a>
     <br/>
   </div>
 
