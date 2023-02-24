@@ -13,7 +13,62 @@
 <br/>
 
 <div align="center">
-    <a href="#"><img alt="ecocaval's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecocaval&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&"/></a>
+    <a href="#"><img alt="ecocaval's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecocaval&langs_count=10&layout=compact&theme=tokyonight&bg_color=211D47"/></a>
     <br/>
   </div>
+  
+<br/>   
+<br/>   
 
+[<img src="https://img.shields.io/badge/HTML5-130F40?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-130F40?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-130F40?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-130F40?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React-130F40?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.JS-130F40?logo=next.js&logoColor=61DAFB" alt="NextJs logo" title="NextJS" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Styled--Components-130F40?logo=styled-components&logoColor=DB7093" alt="Styled-component logo" title="Styled-component" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/SASS-130F40?logo=SASS" alt="SASS logo" title="SASS" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Bootstrap-130F40?logo=bootstrap" alt="BootStrap logo" title="BootStrap" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-130F40?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][tech_tools_anchor] 
+&nbsp;
+[<img src="https://img.shields.io/badge/Yarn-130F40?logo=yarn&logoColor=339933" alt="Yarn logo" title="Yarn" height="25" />][tech_tools_anchor] 
+&nbsp;
+[<img src="https://img.shields.io/badge/AWS-130F40?logo=amazon-aws&logoColor=339933" alt="AWS logo" title="AWS" height="25" />][tech_tools_anchor] 
+&nbsp;
+[<img src="https://img.shields.io/badge/Express-130F40?&logo=express&logoColor=000000" alt="Express logo" title="Express" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JWT-130F40?&logo=JSON%20web%20tokens&logoColor=000000" alt="JWT logo" title="JWT" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Prisma-130F40?&logo=Prisma&logoColor=3982CE" alt="Prisma logo" title="prisma" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-130F40?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MYSQL-130F40?logo=mysql&logoColor=white" alt="MYSQL logo" title="MYSQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-130F40?logo=postgresql&logoColor=316192" alt="Postgres logo" title="postgres" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Insomnia-130F40?logo=Insomnia&logoColor=5849be" alt="Insomnia logo" title="Insomnia" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Jest-130F40?logo=jest&logoColor=5849be" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Figma-130F40?logo=figma&logoColor=F24E1E" alt="Figma logo" title="figma" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Vercel-130F40?&logo=vercel&logoColor=ffffff" alt="Vercel logo" title="Vercel" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-130F40?logo=git&logoColor=F05032" alt="Git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Linux-130F40?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
+
+
+&nbsp;
+    
+[tech_tools_anchor]: #bonjour--
