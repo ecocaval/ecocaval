@@ -20,10 +20,6 @@
 <br/>   
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-130F40?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-130F40?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-130F40?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-130F40?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
@@ -49,4 +45,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-130F40?logo=postgresql&logoColor=316192" alt="Postgres logo" title="postgres" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Jest-130F40?logo=jest&logoColor=5849be" alt="Jest logo" title="Jest" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-130F40?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-130F40?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;
