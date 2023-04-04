@@ -36,11 +36,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/SASS-130F40?logo=SASS" alt="SASS logo" title="SASS" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-130F40?logo=bootstrap" alt="BootStrap logo" title="BootStrap" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Node.js-130F40?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /> 
-&nbsp;
-<img src="https://img.shields.io/badge/Yarn-130F40?logo=yarn&logoColor=339933" alt="Yarn logo" title="Yarn" height="25" /> 
 &nbsp;
 <img src="https://img.shields.io/badge/AWS-130F40?logo=amazon-aws&logoColor=339933" alt="AWS logo" title="AWS" height="25" /> 
 &nbsp;
@@ -52,19 +48,9 @@
 &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-130F40?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/MYSQL-130F40?logo=mysql&logoColor=white" alt="MYSQL logo" title="MYSQL" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-130F40?logo=postgresql&logoColor=316192" alt="Postgres logo" title="postgres" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Insomnia-130F40?logo=Insomnia&logoColor=5849be" alt="Insomnia logo" title="Insomnia" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Jest-130F40?logo=jest&logoColor=5849be" alt="Jest logo" title="Jest" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Figma-130F40?logo=figma&logoColor=F24E1E" alt="Figma logo" title="figma" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Vercel-130F40?&logo=vercel&logoColor=ffffff" alt="Vercel logo" title="Vercel" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/git-130F40?logo=git&logoColor=F05032" alt="Git logo" title="git" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Linux-130F40?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
 </div>
