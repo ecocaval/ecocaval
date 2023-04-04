@@ -34,8 +34,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Next.JS-130F40?logo=next.js&logoColor=61DAFB" alt="NextJs logo" title="NextJS" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Styled--Components-130F40?logo=styled-components&logoColor=DB7093" alt="Styled-component logo" title="Styled-component" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Node.js-130F40?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /> 
 &nbsp;
 <img src="https://img.shields.io/badge/AWS-130F40?logo=amazon-aws&logoColor=339933" alt="AWS logo" title="AWS" height="25" /> 
