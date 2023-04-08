@@ -38,7 +38,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/JWT-130F40?&logo=JSON%20web%20tokens&logoColor=000000" alt="JWT logo" title="JWT" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Prisma-130F40?&logo=Prisma&logoColor=3982CE" alt="Prisma logo" title="prisma" height="25" />
+<img src="https://img.shields.io/badge/Prisma-130F40?&logo=Prisma&logoColor=3982CE" alt="Prisma logo" title="Prisma" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-130F40?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 &nbsp;
