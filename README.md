@@ -1,4 +1,4 @@
-<p align = "center">Desenvolvedor Full S̶t̶a̶c̶k Sterco</p>
+<p align = "center">Full S̶t̶a̶c̶k Sterco</p>
 
 <p align = "center"  ><img src="https://miro.medium.com/max/960/1*nviGMyw1WuYk4rB0RsdZEg.gif"/></p> 
 
