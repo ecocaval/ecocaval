@@ -43,6 +43,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-130F40?logo=postgresql&logoColor=316192" alt="Postgres logo" title="postgres" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/MySQL-130F40?logo=mysql&logoColor=316192" alt="MySQL logo" title="mysql" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/Jest-130F40?logo=jest&logoColor=5849be" alt="Jest logo" title="Jest" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/HTML5-130F40?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
