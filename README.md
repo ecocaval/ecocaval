@@ -36,8 +36,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/AWS-130F40?logo=amazon-aws&logoColor=339933" alt="AWS logo" title="AWS" height="25" /> 
 &nbsp;
-<img src="https://img.shields.io/badge/Express-130F40?&logo=express&logoColor=000000" alt="Express logo" title="Express" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/JWT-130F40?&logo=JSON%20web%20tokens&logoColor=000000" alt="JWT logo" title="JWT" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Prisma-130F40?&logo=Prisma&logoColor=3982CE" alt="Prisma logo" title="Prisma" height="25" />
